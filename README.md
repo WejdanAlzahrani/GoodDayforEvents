@@ -1,5 +1,5 @@
 # GoodDayforEvents
-A model to  
+
 ## Project Proposal -
 This project aims to build a ML model predict weather a day is a good day for an event to take place or not. 
 
