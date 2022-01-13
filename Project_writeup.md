@@ -29,7 +29,7 @@ Model Evaluation
 
 The entire training dataset of 171,305 records was split into 80/20 train.
 
-Evaluation
+
 Mean Absolute error:
 - linear regression got 6.77
 - gradient boosted trees got 6.17
