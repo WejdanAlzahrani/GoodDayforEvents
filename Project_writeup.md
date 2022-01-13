@@ -12,11 +12,13 @@ Our dataset is Bike Sharing Dataset and it can be found [here](https://www.kaggl
 
 # Algorithms 
 Feature Engineering
-
-Mapping latitude and longitude to 3-dimensional coordinates so nearby continuous values would also be close in reality
-Converting categorical features to binary dummy variables
-Combining particular dummies and ranges of numeric features to highlight strong signals and illogical values for waterpoint status identified during EDA
-Selecting subsets of the total unique values for categorical features that were converted to dummies, according to the number of samples they were associated with and their contribution to certain statuses
+1. Converted duration_sec into duration_min 
+2. Converted start_time to datetime object
+3. Added start_hour
+4. Added start_day
+5. Added day_time
+6. Added is_holiday
+7. Added member_age
 
 Models
 
@@ -25,9 +27,13 @@ Models
 
 Model Evaluation 
 
-The entire training dataset of 171305 records was split into 80/20 train vs.
+The entire training dataset of 171,305 records was split into 80/20 train.
 
-
+Evaluation
+Mean Absolute error:
+- linear regression got 6.77
+- gradient boosted trees got 6.17
+- 
 # Tools
 - Pandas for data manipulation
 - Seaborn, matplotlib and plotly for visualizing
