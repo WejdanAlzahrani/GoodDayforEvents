@@ -1,14 +1,16 @@
-# GoodDayforEvents
+# Ride duration prediction 
 
 ## Project Proposal 
-This project aims to build a ML model to predict whether a day is a good day for an event to take place or not. 
+This project aims to build a ML model to predict the ride duration of bike sharing system's customers. 
 
 # Dataset 
-Our dataset is Bike Sharing Dataset and it can be found [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset#).
+Our dataset is Bike Sharing Dataset and it can be found [here](https://www.kaggle.com/chirag02/ford-gobike-2019feb-tripdata).
 
 # Tools
-Mainly sklearn and other tools are going to be added later on.
+- Pandas 
+- Seaborn, matplotlib and plotly for visualizing
+- Sklearn and xgboost for modeling
 
 # MVP Goal 
-Is to have a model that is capable of predicting whether a day is a good day for an event to take place or not.  
+Is to have a model that is capable of predicting the ride duration.  
 
