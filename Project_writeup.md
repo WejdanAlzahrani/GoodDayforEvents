@@ -22,8 +22,8 @@ Feature Engineering
 
 Models
 
--linear regression
--Gradient boosted trees 
+- linear regression
+- Gradient boosted trees 
 
 Model Evaluation 
 
@@ -33,7 +33,7 @@ Evaluation
 Mean Absolute error:
 - linear regression got 6.77
 - gradient boosted trees got 6.17
-- 
+
 # Tools
 - Pandas for data manipulation
 - Seaborn, matplotlib and plotly for visualizing
