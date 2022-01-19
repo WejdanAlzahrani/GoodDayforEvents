@@ -4,7 +4,7 @@
 This project aims to build a ML model to predict the ride duration of bike sharing system's customers. 
 
 # Dataset 
-Our dataset is Bike Sharing Dataset and it can be found [here](https://www.kaggle.com/chirag02/ford-gobike-2019feb-tripdata).
+Our dataset is a Bike Sharing Dataset and it can be found [here](https://www.kaggle.com/chirag02/ford-gobike-2019feb-tripdata).
 
 # Tools
 - Pandas 
