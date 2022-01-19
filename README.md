@@ -7,7 +7,7 @@ This project aims to build a ML model to predict the ride duration of bike shari
 Our dataset is a Bike Sharing Dataset and it can be found [here](https://www.kaggle.com/chirag02/ford-gobike-2019feb-tripdata).
 
 # Tools
-- Pandas 
+- Pandas for data manipulation
 - Seaborn, matplotlib and plotly for visualizing
 - Sklearn and xgboost for modeling
 
